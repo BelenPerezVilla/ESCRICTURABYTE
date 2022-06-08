@@ -1,0 +1,7 @@
+C:\Users\bpere\Desktop\POO unidad 5\Escriturabyte\Escriturabyte\bin\Debug\Escriturabyte.exe.config
+C:\Users\bpere\Desktop\POO unidad 5\Escriturabyte\Escriturabyte\bin\Debug\Escriturabyte.exe
+C:\Users\bpere\Desktop\POO unidad 5\Escriturabyte\Escriturabyte\bin\Debug\Escriturabyte.pdb
+C:\Users\bpere\Desktop\POO unidad 5\Escriturabyte\Escriturabyte\obj\Debug\Escriturabyte.csproj.AssemblyReference.cache
+C:\Users\bpere\Desktop\POO unidad 5\Escriturabyte\Escriturabyte\obj\Debug\Escriturabyte.csproj.CoreCompileInputs.cache
+C:\Users\bpere\Desktop\POO unidad 5\Escriturabyte\Escriturabyte\obj\Debug\Escriturabyte.exe
+C:\Users\bpere\Desktop\POO unidad 5\Escriturabyte\Escriturabyte\obj\Debug\Escriturabyte.pdb
